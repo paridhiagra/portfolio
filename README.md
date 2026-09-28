@@ -6,7 +6,7 @@ education, certifications, and technical interests.
 
 ## 🌐 Live Portfolio
 
-[Visit Portfolio](YOUR_VERCEL_URL)
+[Visit Portfolio]([YOUR_VERCEL_URL](https://portfolio-sage-eight-61.vercel.app/))
 
 ## ✨ Features
 
